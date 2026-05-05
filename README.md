@@ -2,7 +2,10 @@
 Learning and practicing user authentication with PostgreSQL, Express JS, React JS, and Node JS
 
 ## Introduction
-This projects focuses of learning how to handle user authentication in applications. The languages, and frameworks or technologies used are:
+This projects focuses of learning how to handle user authentication in applications. To see how the code works, click on the image below 
+[![Project Image](/images/loginPage.png)](https://www.educative.io/courses/grokking-coding-interview/car-pooling)
+
+The languages, and frameworks or technologies used are:
     
     1. PostgreSQL
     2. Express.js
@@ -11,10 +14,6 @@ This projects focuses of learning how to handle user authentication in applicati
     5. Postman
     6. JSON Web Token
     7.Bcrypt
-
-To see how the code works, click on the image below 
-[![Project Image](/images/loginPage.jpg)](https://www.educative.io/courses/grokking-coding-interview/car-pooling)
-
 
 ## Project Status
 COMPLETE
